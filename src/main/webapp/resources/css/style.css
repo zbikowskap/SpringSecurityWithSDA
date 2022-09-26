@@ -1,0 +1,38 @@
+.auth {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    margin: 200px auto;
+    width: 200px;
+    padding: 30px;
+    background-color: darkred;
+}
+
+.form {
+    margin: 10px 0 10px 0;
+    padding: 10px;
+    display: block;
+}
+
+.meme{
+    display: block;
+    margin: 200px auto;
+    width: 439px;
+    padding: 30px;
+    background-color: darkred;
+}
+
+body{
+    background-color: black;
+}
+
+.remember{
+    display: block;
+    margin: 10px auto;
+
+}
+
+.submit-button{
+    display: block;
+    margin: auto;
+}
